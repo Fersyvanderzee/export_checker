@@ -1,3 +1,4 @@
 Every week we do several checks using an Excel-file.
-
 This Python program does these checks for us.
+
+Updated: it also includes an extractor for the most important values. The output is used across various departments.
